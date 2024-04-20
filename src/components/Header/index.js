@@ -11,6 +11,7 @@ const Header=()=>{
             <Nav>
                 <NavLink to='/'>Home</NavLink>
                 <NavLink to='/useState'>useState</NavLink>
+                <NavLink to='/useEffect'>useEffect</NavLink>
             </Nav>       
         </HeaderContainer>
     )
