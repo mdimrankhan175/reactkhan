@@ -6,7 +6,7 @@ const Header=()=>{
     return(
         <HeaderContainer>
             <Link to="/">
-                <Logo src='' alt='logo' /> 
+                <Logo src='https://res.cloudinary.com/dbelvmspz/image/upload/v1660558582/imran_logo_zh0c8u.jpg' alt='IMRAN KHAN' /> 
             </Link>
             <Nav>
                 <NavLink to='/'>Home</NavLink>

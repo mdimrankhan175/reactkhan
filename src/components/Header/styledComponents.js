@@ -11,8 +11,8 @@ color: #fff;
 `
 
 export const Logo=styled.img`
-width:100px;
-height:auto;
+width:35px;
+border-radius:100px;
 `
 export const Nav=styled.nav`
 display:flex;
